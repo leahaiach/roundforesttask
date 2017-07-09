@@ -4,7 +4,7 @@ limitation: It took me 5 hours to implement this task. I didn't
 do the google translation part because I couldn't find a free google-translate api. The one given in the task 
 doesn't work.
 
-In order to run the program place the jar file , run.sh and Reviews.csv in the same folder and run ./run.sh in shell.
+In order to run the program place the jar file , run.sh and Reviews.csv file in the same folder and run ./run.sh in shell.
 
 Answers:
 
@@ -17,7 +17,7 @@ For the most used word I have decided to make the word count case-sensitive (ex:
  we could make it case-insensitive if it is considerate as duplicate.
 
 -->We are interested in using full multi core CPU power.
-I could implement it using java 8 streams in order to distribute the line reading and processing. 
+I could implement it using java 8 streams in order to distribute the lines reading and processing. 
 
 -->We will be running this on machine with 500MB of RAM. How do you make sure that we are not using more than that? 
 -->How are you going to monitor the memory usage of your program?
