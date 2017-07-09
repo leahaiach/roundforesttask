@@ -4,6 +4,7 @@ limitation: It took me 5 hours to implement this task. I didn't
 do the google translation part because I couldn't find a free google-translate api. The one given in the task 
 doesn't work.
 
+In order to run the program place the jar file , run.sh and Reviews.csv in the same folder and run ./run.sh in shell.
 
 Answers:
 
